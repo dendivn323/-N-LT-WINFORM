@@ -68,6 +68,8 @@ namespace QLNhanVien
 
         private void FrmLogin_Load(object sender, EventArgs e)
         {
+            
+            //SỬA CODE CỦA HIẾU
             //Lấy ra user pass 
             txtUserName.Text = Properties.Settings.Default.UserName;
             txtPassword.Text = Properties.Settings.Default.PassWord;
