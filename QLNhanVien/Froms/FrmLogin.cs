@@ -70,7 +70,8 @@ namespace QLNhanVien
         {
             
             //SỬA CODE CỦA HIẾU
-            //Lấy ra user pass 
+            //Lấy ra user pass
+            //HIẾU CODE
             txtUserName.Text = Properties.Settings.Default.UserName;
             txtPassword.Text = Properties.Settings.Default.PassWord;
             ckcSavePass.Checked = Properties.Settings.Default.SavePass;
