@@ -1,0 +1,17 @@
+C:\Users\HieuPC\source\repos\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.FrmLogin.resources
+C:\Users\HieuPC\source\repos\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.Froms.FrmMain.resources
+C:\Users\HieuPC\source\repos\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.Froms.QuanLy.FrmQuanLyNguoiDung.resources
+C:\Users\HieuPC\source\repos\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.Properties.Resources.resources
+C:\Users\HieuPC\source\repos\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.csproj.GenerateResource.cache
+C:\Users\HieuPC\source\repos\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.csproj.CoreCompileInputs.cache
+C:\Users\HieuPC\source\repos\QLNhanVien\QLNhanVien\bin\Debug\QLNhanVien.exe.config
+C:\Users\HieuPC\source\repos\QLNhanVien\QLNhanVien\bin\Debug\QLNhanVien.exe
+C:\Users\HieuPC\source\repos\QLNhanVien\QLNhanVien\bin\Debug\QLNhanVien.pdb
+C:\Users\HieuPC\source\repos\QLNhanVien\QLNhanVien\bin\Debug\EntityFramework.dll
+C:\Users\HieuPC\source\repos\QLNhanVien\QLNhanVien\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HieuPC\source\repos\QLNhanVien\QLNhanVien\bin\Debug\EntityFramework.xml
+C:\Users\HieuPC\source\repos\QLNhanVien\QLNhanVien\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HieuPC\source\repos\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.csproj.CopyComplete
+C:\Users\HieuPC\source\repos\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.exe
+C:\Users\HieuPC\source\repos\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.pdb
+C:\Users\HieuPC\source\repos\QLNhanVien\QLNhanVien\obj\Debug\QLNhanVien.csproj.AssemblyReference.cache
